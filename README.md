@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimpster (Ryan)
+- 👋 Hi, I’m @kimpster 
 - 👀 I’m interested in App Dev & Web Scraping
 - 🌱 I’m currently learning Flutter
 
